@@ -1,0 +1,9 @@
+- layout: left
+  company: (주)블록웨이브랩스
+  link: https://yoursnft.me/
+  job_title: Blockchain Developer
+  dates: 2023.01 ~ 2023.10
+  quote: >
+    WEB2.0를 위한 WEB3.0 온보딩 NFT 서비스
+  description: | # this will include new lines to allow paragraphs
+    * 스마트 컨트랙트 개발
